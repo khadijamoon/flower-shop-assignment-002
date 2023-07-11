@@ -1,0 +1,17 @@
+/* General Website Style rules */
+body {
+    font-family: "Helvetica", Sans-Serif;
+    background-color: blueviolet;
+}
+    h1 {
+        color: orange;   
+      }
+
+p {
+    color: blue;
+}
+     #picture1 {
+        width: 100px; 
+        height: 50px;
+     } 
+  
