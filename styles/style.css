@@ -71,7 +71,7 @@ line-height: normal;
 color background-color:#FFFFFF ;
 
 }
- mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ 
 
  .banner-img-1 {
 width: 318px;
@@ -237,16 +237,40 @@ justify-content: center;
         color: #FFF;
     }
      .finish {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 130px 0 ;
+        
 
      }
-     .text-center {
+     .text-center{
+        display: flex;
+        width: 625px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: rgba(255, 255, 255, 0.90);
+        text-align: center;
+        font-family: Lato;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
 
-     }color: rgba(255, 255, 255, 0.90);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
 
+     }
+     .ses{
+        color: rgba(255, 255, 255, 0.40);
+        text-align: center;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+         font-weight: 400;
+         line-height: normal; 
+         display: flex;  
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+     }
 
